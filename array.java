@@ -11,9 +11,11 @@ class array
 
 	int ar1[] = {1,2,3,4};
 
-	for(int i = 0;i<10;i++)
+	for(int i = 0;i<4;i++)
 	{
-		arr[i] = m+i;
+		ar1[i] = m+i;
+		System.out.println(ar1[i]);
+	
 	}
 
 	for(int i = 0;i<10;i++)
