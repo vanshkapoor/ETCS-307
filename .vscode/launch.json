@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - threadcheck",
+            "request": "launch",
+            "mainClass": "threadcheck",
+            "projectName": "java_83746a6d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - runnablethread",
+            "request": "launch",
+            "mainClass": "runnablethread",
+            "projectName": "java_83746a6d"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - nestedinterface",
             "request": "launch",
             "mainClass": "nestedinterface",
