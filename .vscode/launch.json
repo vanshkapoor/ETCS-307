@@ -2,6 +2,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - nestedinterface",
+            "request": "launch",
+            "mainClass": "nestedinterface",
+            "projectName": "java_83746a6d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - nested",
+            "request": "launch",
+            "mainClass": "nested",
+            "projectName": "java_83746a6d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - abstract1",
+            "request": "launch",
+            "mainClass": "abstract1",
+            "projectName": "java_83746a6d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - interface1",
+            "request": "launch",
+            "mainClass": "interface1",
+            "projectName": "java_83746a6d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - interfacecode",
+            "request": "launch",
+            "mainClass": "interfacecode",
+            "projectName": "java_83746a6d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "java_83746a6d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - inheritence",
+            "request": "launch",
+            "mainClass": "inheritence",
+            "projectName": "java_83746a6d"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - threadcode",
             "request": "launch",
             "mainClass": "threadcode"

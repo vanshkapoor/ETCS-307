@@ -5,6 +5,11 @@ class Outer
 {
 int ox = 10;
 
+Outer()
+{
+	System.out.println("Outer constr");
+}
+
 void test()
 {
 	Inner in = new Inner();
@@ -13,6 +18,10 @@ void test()
 
 class Inner
 {
+	Inner(){
+		System.out.println("Inner constr");
+	}
+
 	void display()
 	{
 		System.out.println("inner with ox =" + ox);
