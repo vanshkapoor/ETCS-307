@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - threadpc",
+            "request": "launch",
+            "mainClass": "threadpc",
+            "projectName": "java_83746a6d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - threadsynch",
+            "request": "launch",
+            "mainClass": "threadsynch",
+            "projectName": "java_83746a6d"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - threadclass",
             "request": "launch",
             "mainClass": "threadclass",
